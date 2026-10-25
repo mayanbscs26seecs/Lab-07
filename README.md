@@ -17,4 +17,4 @@ Output:
     Total storage needed: 500.00 MB
 
 ## Author
-Your Full Name, Group <your group name>, CS-117 Lab 11
+Muhammad Ayan Haider
